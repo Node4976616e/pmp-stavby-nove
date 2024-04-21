@@ -73,7 +73,7 @@ body {
 
 #main-hero {
   background-color: rgb(43, 43, 43);
-  background-image: url("../images/hero.jpg");
+  background-image: url("images/hero.jpg");
   filter: saturate(150%);
   background-size: cover;
   background-position: center;
